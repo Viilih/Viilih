@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme Nunes :)
 
 -  👨‍💻 Interesse em desenvolvimento WEB
--  🌱 Estudando  HTML,CSS e JavaScript
+-  🌱 Estudando  React, Typescript e Redux
 -  📧 Contato: gnlnascimento@gmail.com
 
 <div align="center">
