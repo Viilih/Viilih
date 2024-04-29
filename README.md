@@ -9,7 +9,7 @@
 #### Random facts
 - I enjoy using different tools and languages to build projects. For instance, I might try out various JavaScript frameworks or explore new languages for exciting challenges beyond my usual work.
 - I lke math, physics and cosmology
-
+- I use the Stitch pic because I think it's cool (and cute),and i like him.
 > Remmember: you got it (ง'̀-'́)ง
 ---
 #### 🌐 Contacts
