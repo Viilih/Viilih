@@ -1,6 +1,6 @@
 ### Currently Working as a Fullstack Developer
 
-You can learn more about me through my [blog](https://vilih.com/) or [website](https://guilherme-dev-pi.vercel.app/).
+You can learn more about me through my [blog](https://vilih.com/)
 
 ---
 
