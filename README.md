@@ -5,9 +5,10 @@ You can learn more about me through my [blog](https://vilih.com/)
 ---
 
 ### Tech skills
-- Typescript, React
+- Typescript, React, Node
 - C#, .NET
-
+- Go
+  
 ### Connect With Me  
 <div align="start">
   <a href="mailto:gnlnascimento@gmail.com" target="_blank">
