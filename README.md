@@ -1,13 +1,11 @@
-### Currently Working as a Fullstack Developer
+### Frontend Developer
 
 You can learn more about me through my [blog](https://vilih.com/)
 
 ---
 
 ### Tech skills
-- Typescript, React, Node
-- C#, .NET
-- Go
+- Typescript, React
   
 ### Connect With Me  
 <div align="start">
