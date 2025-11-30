@@ -5,7 +5,7 @@ You can learn more about me through my [blog](https://vilih.com/)
 ---
 
 ### Tech skills
-- Typescript, React, Node 
+- Typescript, React, Node, C#
   
 ### Connect With Me  
 <div align="start">
