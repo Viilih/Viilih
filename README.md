@@ -1,11 +1,11 @@
-### Frontend Developer
+Just a curious software engineer who enjoys learning and experimenting :)
 
 You can learn more about me through my [blog](https://vilih.com/)
 
 ---
 
 ### Tech skills
-- Typescript, React
+- Typescript, React, Node 
   
 ### Connect With Me  
 <div align="start">
